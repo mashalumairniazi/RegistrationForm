@@ -1,6 +1,6 @@
-# Project 4: Registration Form - Responsive Web Design (FCC)
+# Project 1.4: Registration Form - Responsive Web Design (FCC)
 
-##### This repository contains the completed code for Project 4 in the FreeCodeCamp "Responsive Web Design" course. 
+##### This repository contains the completed code for Project 1.4 in the FreeCodeCamp "Responsive Web Design" course. 
 
 This project demonstrates how to create a registration form using HTML and style it using CSS.
 
